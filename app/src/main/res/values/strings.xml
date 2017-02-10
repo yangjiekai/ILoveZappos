@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search">SEARCH</string>
+    <string name="input_hint">Please input tag</string>
+    <string name="input_prefill"></string>
+    <string name="default_search_tag">nike</string>
+</resources>
